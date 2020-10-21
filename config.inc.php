@@ -29,7 +29,7 @@
 installed = Off
 
 ; The canonical URL to the OJS installation (excluding the trailing slash)
-base_url = "http://pkp.sfu.ca/ojs"
+base_url = "https://kreatifid.herokuapp.com"
 
 ; Session cookie name
 session_cookie_name = OJSSID
@@ -247,7 +247,7 @@ filename_revision_match = 70
 [security]
 
 ; Force SSL connections site-wide
-force_ssl = On
+force_ssl = Off
 
 ; Force SSL connections for login only
 force_login_ssl = Off
