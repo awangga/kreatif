@@ -1,0 +1,10 @@
+{
+    "require": {
+        "php": "*",
+		"ext-mbstring": "*",
+        "chh/cache-service-provider": "~1.0",
+        "ext-libevent": "*",
+        "ext-curl": "*",
+        "ext-sundown": "*"
+    }
+}
