@@ -250,7 +250,7 @@ filename_revision_match = 70
 force_ssl = On
 
 ; Force SSL connections for login only
-force_login_ssl = On
+force_login_ssl = Off
 
 ; This check will invalidate a session if the user's IP address changes.
 ; Enabling this option provides some amount of additional security, but may
